@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MaitakePokeTower/static/css/main.e6c13ad2.css",
+    "main.js": "/MaitakePokeTower/static/js/main.5854963d.js",
+    "static/js/787.25e8e1e3.chunk.js": "/MaitakePokeTower/static/js/787.25e8e1e3.chunk.js",
+    "index.html": "/MaitakePokeTower/index.html",
+    "main.e6c13ad2.css.map": "/MaitakePokeTower/static/css/main.e6c13ad2.css.map",
+    "main.5854963d.js.map": "/MaitakePokeTower/static/js/main.5854963d.js.map",
+    "787.25e8e1e3.chunk.js.map": "/MaitakePokeTower/static/js/787.25e8e1e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5854963d.js"
+  ]
+}
